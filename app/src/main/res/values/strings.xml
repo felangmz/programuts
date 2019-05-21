@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">program uts</string>
+
+    <!-- ViewPager -->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">PROFIL</string>
+    <string name="slide_1_desc">Menampilkan Profil Pengguna</string>
+
+    <string name="slide_2_title">KONTAK</string>
+    <string name="slide_2_desc">Menampilkan Daftar Kontak</string>
+
+    <string name="slide_3_title">FRIEND LIST</string>
+    <string name="slide_3_desc">Menampilkan Daftar Teman</string>
+
+
+    <!-- Bottom Nav -->
+    <string name="p_profil">Profil</string>
+    <string name="p_kontak">Kontak</string>
+    <string name="p_fl">Friend List</string>
+    <string name="fragment_profil">Fragment Profil</string>
+    <string name="fragment_kontak">Fragment kontak</string>
+    <string name="fragment_fl">Fragment Fl</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
