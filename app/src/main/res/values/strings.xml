@@ -18,9 +18,11 @@
 
 
     <!-- Bottom Nav -->
+    <string name="p_account">Akun</string>
     <string name="p_profil">Profil</string>
     <string name="p_kontak">Kontak</string>
     <string name="p_fl">Friend List</string>
+    <string name="fragment_account">Fragment Akun</string>
     <string name="fragment_profil">Fragment Profil</string>
     <string name="fragment_kontak">Fragment kontak</string>
     <string name="fragment_fl">Fragment Fl</string>

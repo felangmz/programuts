@@ -105,7 +105,7 @@ private void addBottomDots (int currentPage){
         private void launchHomeScreen(){
 
         //KUTANDAI BAGIAN INI *nanti dirubah MainActivity.classnya ke Menu.class yang akan dibuat
-        startActivity(new Intent(WelcomeActivity.this, Menu.class));
+        startActivity(new Intent(WelcomeActivity.this, LoginActivity.class));
         finish();
         }
 
