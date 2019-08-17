@@ -1,4 +1,4 @@
-#Sat Aug 17 11:47:53 ICT 2019
-base.0=C\:\\Users\\felan\\AndroidStudioProjects\\programuts_backup_3\\programuas\\programuts\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+#Sat Aug 17 12:39:42 ICT 2019
+base.0=C\:\\Users\\felan\\AndroidStudioProjects\\programuts_backup_3\\programuas\\programUAS\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
 path.0=classes.dex
 renamed.0=classes.dex

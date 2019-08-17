@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.felangm.programuts"
+    package="com.felangm.programUAS"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -18,27 +18,27 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.felangm.programuts.MainActivity" >
+        <activity android:name="com.felangm.programUAS.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.felangm.programuts.WelcomeActivity" />
+        <activity android:name="com.felangm.programUAS.WelcomeActivity" />
 
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
 
-        <activity android:name="com.felangm.programuts.Menu" />
-        <activity android:name="com.felangm.programuts.LoginActivity" />
-        <activity android:name="com.felangm.programuts.RegisterActivity" />
-        <activity android:name="com.felangm.programuts.Fragment_account" />
+        <activity android:name="com.felangm.programUAS.Menu" />
+        <activity android:name="com.felangm.programUAS.LoginActivity" />
+        <activity android:name="com.felangm.programUAS.RegisterActivity" />
+        <activity android:name="com.felangm.programUAS.Fragment_account" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="com.felangm.programuts.com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.felangm.programUAS.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 

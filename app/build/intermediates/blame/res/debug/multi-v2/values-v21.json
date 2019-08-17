@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\felan\\AndroidStudioProjects\\programuts_backup_3\\programuas\\programuts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\felan\\AndroidStudioProjects\\programuts_backup_3\\programuas\\programUAS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\felan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\d0be6b1d4faf7ca759d4bef9a8135664\\res\\values-v21\\values-v21.xml",
