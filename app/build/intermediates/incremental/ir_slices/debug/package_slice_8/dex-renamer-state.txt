@@ -1,0 +1,4 @@
+#Sat Aug 17 11:59:55 ICT 2019
+base.0=C\:\\Users\\felan\\AndroidStudioProjects\\programuts_backup_3\\programuas\\programuts\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

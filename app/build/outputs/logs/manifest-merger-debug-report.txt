@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\27dde75bf8236790c822f131a30c23f9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bc0bea63a55356706615df4830a8023f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3351f2bd2f45ab1456cbcaf7d77314f2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\6833663d9a564cb7337f09ccd00f6452\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f827a1141a7ac77bd3dc9f30c5a9c643\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a558ac9d71cdaa5fb89c09c3d5d11fa8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d3be1e3be5d129b7e48bf700d2ee9f94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0e471586b22cb7dff6c659fac977d477\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\045b6e4f960096442a3a7935eeb638b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c9fc875385fd4923a7e799d67c43f685\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\9c49eec792b36bdca73bf155006bebe9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d0be6b1d4faf7ca759d4bef9a8135664\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8c49c040e779953b98a9d0011b40e77f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1b30563dbb18099e00918ffd0051d894\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e3c5bef829a09adffd191e7cc2495fa5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e8787badf8a9964a553b4463fd5cfced\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9b447d26ea2a35691a54659722dbf35d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\dcd6ad9e711f2f5057a570227f335b23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8f9895612407ae3d9533ca1b9c458dec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7d3d6d5cf25fd91759feddb3722d6b46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9893434cabdcbfd4715dcce81781ff1e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2ca18b15edc01c630fc72bccc1b0b17c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\dede139837c26b9503d00922ddaa794f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\09ab49ff483276e93910624ba9ed80dd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c99ac45df5c7604267d085cfd72bec94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bdd8c83ecec78a624e580e4f0a292b13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1e2987d45ecfdb1366014d0b9989044f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d6b611df604f11e6bd4bcf1f557a56f6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d04d8c6568c64f7734e2e87e35cc965a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\15f9310bf1b255a1dd92e7af8df6cf14\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\addb9bcf56279cdef546bf435280a537\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\418bda81a3e22789cdb484cec35823e8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\881e411af7f159202a9ec0d5fad8d644\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\27dde75bf8236790c822f131a30c23f9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\27dde75bf8236790c822f131a30c23f9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3351f2bd2f45ab1456cbcaf7d77314f2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3351f2bd2f45ab1456cbcaf7d77314f2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9893434cabdcbfd4715dcce81781ff1e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9893434cabdcbfd4715dcce81781ff1e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2ca18b15edc01c630fc72bccc1b0b17c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2ca18b15edc01c630fc72bccc1b0b17c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9893434cabdcbfd4715dcce81781ff1e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.felangm.programuts.MainActivity
+ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.felangm.programuts.WelcomeActivity
+ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:19:9-53
+	android:name
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:19:19-50
+meta-data#preloaded_fonts
+ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:21:9-23:57
+	android:resource
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:23:13-54
+	android:name
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:22:13-43
+activity#com.felangm.programuts.Menu
+ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:25:9-42
+	android:name
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:25:19-39
+activity#com.felangm.programuts.LoginActivity
+ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:26:9-51
+	android:name
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:26:19-48
+activity#com.felangm.programuts.RegisterActivity
+ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:27:9-54
+	android:name
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:27:19-51
+activity#com.felangm.programuts.Fragment_account
+ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:28:9-63
+	android:name
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml:28:19-51
+uses-sdk
+INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\27dde75bf8236790c822f131a30c23f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\27dde75bf8236790c822f131a30c23f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bc0bea63a55356706615df4830a8023f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bc0bea63a55356706615df4830a8023f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3351f2bd2f45ab1456cbcaf7d77314f2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3351f2bd2f45ab1456cbcaf7d77314f2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\6833663d9a564cb7337f09ccd00f6452\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\6833663d9a564cb7337f09ccd00f6452\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f827a1141a7ac77bd3dc9f30c5a9c643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f827a1141a7ac77bd3dc9f30c5a9c643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a558ac9d71cdaa5fb89c09c3d5d11fa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a558ac9d71cdaa5fb89c09c3d5d11fa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d3be1e3be5d129b7e48bf700d2ee9f94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d3be1e3be5d129b7e48bf700d2ee9f94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0e471586b22cb7dff6c659fac977d477\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0e471586b22cb7dff6c659fac977d477\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\045b6e4f960096442a3a7935eeb638b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\045b6e4f960096442a3a7935eeb638b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c9fc875385fd4923a7e799d67c43f685\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c9fc875385fd4923a7e799d67c43f685\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\9c49eec792b36bdca73bf155006bebe9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\9c49eec792b36bdca73bf155006bebe9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d0be6b1d4faf7ca759d4bef9a8135664\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d0be6b1d4faf7ca759d4bef9a8135664\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8c49c040e779953b98a9d0011b40e77f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8c49c040e779953b98a9d0011b40e77f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1b30563dbb18099e00918ffd0051d894\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1b30563dbb18099e00918ffd0051d894\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e3c5bef829a09adffd191e7cc2495fa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e3c5bef829a09adffd191e7cc2495fa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e8787badf8a9964a553b4463fd5cfced\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e8787badf8a9964a553b4463fd5cfced\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9b447d26ea2a35691a54659722dbf35d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9b447d26ea2a35691a54659722dbf35d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\dcd6ad9e711f2f5057a570227f335b23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\dcd6ad9e711f2f5057a570227f335b23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8f9895612407ae3d9533ca1b9c458dec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8f9895612407ae3d9533ca1b9c458dec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7d3d6d5cf25fd91759feddb3722d6b46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7d3d6d5cf25fd91759feddb3722d6b46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9893434cabdcbfd4715dcce81781ff1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9893434cabdcbfd4715dcce81781ff1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2ca18b15edc01c630fc72bccc1b0b17c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2ca18b15edc01c630fc72bccc1b0b17c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\dede139837c26b9503d00922ddaa794f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\dede139837c26b9503d00922ddaa794f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\09ab49ff483276e93910624ba9ed80dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\09ab49ff483276e93910624ba9ed80dd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c99ac45df5c7604267d085cfd72bec94\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c99ac45df5c7604267d085cfd72bec94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bdd8c83ecec78a624e580e4f0a292b13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bdd8c83ecec78a624e580e4f0a292b13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1e2987d45ecfdb1366014d0b9989044f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1e2987d45ecfdb1366014d0b9989044f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d6b611df604f11e6bd4bcf1f557a56f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d6b611df604f11e6bd4bcf1f557a56f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d04d8c6568c64f7734e2e87e35cc965a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d04d8c6568c64f7734e2e87e35cc965a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\15f9310bf1b255a1dd92e7af8df6cf14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\15f9310bf1b255a1dd92e7af8df6cf14\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\addb9bcf56279cdef546bf435280a537\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\addb9bcf56279cdef546bf435280a537\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\418bda81a3e22789cdb484cec35823e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\418bda81a3e22789cdb484cec35823e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\881e411af7f159202a9ec0d5fad8d644\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\felan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\881e411af7f159202a9ec0d5fad8d644\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\felan\AndroidStudioProjects\programuts_backup_3\programuas\programuts\app\src\main\AndroidManifest.xml
